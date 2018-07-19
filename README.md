@@ -1,4 +1,4 @@
-# test-project
+# Pixel Art
 
 > A Vue.js project
 
